@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "さよなら両片想",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2025-12-04T06:06:36.950269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよなら両片想 feat. 芹沢春輝(CV:鈴村健一)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_さよなら両片想_feat._芹沢春輝(CV_鈴村健一)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよなら両片想",
+      "artist": "HoneyWorks feat. 芹沢春輝(CV:鈴村健一)",
+      "has_synced": true,
+      "path": "select/02_さよなら両片想_HoneyWorks_feat._芹沢春輝(CV_鈴村健一).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよなら両片想",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/03_さよなら両片想_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さよなら両片想",
+      "artist": "HoneyWorks feat. Serizawa, Haruki(CV:Suzumura, Ken'ichi)",
+      "has_synced": true,
+      "path": "select/04_さよなら両片想_HoneyWorks_feat._Serizawa,_Haruki(CV_Suzumura,_Ken'ichi).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さよなら両片想 (feat. 芹沢春輝 (CV:鈴村健一))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_さよなら両片想_(feat._芹沢春輝_(CV_鈴村健一))_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら両片想",
+      "artist": "feat.芹沢春輝(CV:鈴村健一)",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら両片想_feat.芹沢春輝(CV_鈴村健一).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "さよなら両片想",
+      "artist": "feat.芹沢春輝(CV:鈴村健一)",
+      "has_synced": false,
+      "path": "select/pl_02_さよなら両片想_feat.芹沢春輝(CV_鈴村健一).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "さよなら両片想",
+      "artist": "feat.芹沢春輝(CV:鈴村健一)",
+      "has_synced": false,
+      "path": "select/pl_03_さよなら両片想_feat.芹沢春輝(CV_鈴村健一).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "さよなら両片想",
+      "artist": "feat.芹沢春輝(CV:鈴村健一)",
+      "has_synced": false,
+      "path": "select/pl_04_さよなら両片想_feat.芹沢春輝(CV_鈴村健一).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "さよなら両片想",
+      "artist": "feat.芹沢春輝(CV:鈴村健一)",
+      "has_synced": false,
+      "path": "select/pl_05_さよなら両片想_feat.芹沢春輝(CV_鈴村健一).txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "さよなら両片想 feat.芹沢春輝(鈴村健一)",
+      "artist": "feat.芹沢春輝(CV:鈴村健一)",
+      "has_synced": false,
+      "path": "select/pl_06_さよなら両片想_feat.芹沢春輝(鈴村健一)_feat.芹沢春輝(CV_鈴村健一).txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "さよなら両片想 feat.芹沢春輝(鈴村健一)",
+      "artist": "feat.芹沢春輝(CV:鈴村健一)",
+      "has_synced": false,
+      "path": "select/pl_07_さよなら両片想_feat.芹沢春輝(鈴村健一)_feat.芹沢春輝(CV_鈴村健一).txt"
+    }
+  ]
+}
